@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SarJHunt
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning about HTML and CSS.
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently learning more about AI tools.
 - 💞️ I’m looking to collaborate on many things!
 - 📫 How to reach me shunt11@live.co.uk
 - 😄 Pronouns: She/her
